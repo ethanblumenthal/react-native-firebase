@@ -1,3 +1,5 @@
 export const EMAIL_CHANGED = 'EMAIL_CHANGED'
 export const PASSWORD_CHANGED = 'PASSWORD_CHANGED'
 export const LOGIN_USER = 'LOGIN_USER'
+export const LOGIN_ERROR = 'LOGIN_ERROR'
+export const SHOW_SPINNER = 'SHOW_SPINNER'
